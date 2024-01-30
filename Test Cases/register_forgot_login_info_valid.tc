@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>register_forgot_login_info_valid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8f7ec96-7e09-4288-89f9-bfb3c129bed2</testCaseGuid>
+</TestCaseEntity>

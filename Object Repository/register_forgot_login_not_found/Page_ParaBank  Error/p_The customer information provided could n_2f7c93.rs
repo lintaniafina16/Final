@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The customer information provided could n_2f7c93</name>
+   <tag></tag>
+   <elementGuidId>d666a175-17a9-43dd-911c-cf526ba0661d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rightPanel']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>625b05c5-9337-4070-9c55-dc42830a3f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>0ecef7f3-9023-4e9a-9fa9-fc3913f4af6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The customer information provided could not be found.</value>
+      <webElementGuid>8d23a9ff-e093-400c-b56a-44111cc23a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rightPanel&quot;)/p[@class=&quot;error&quot;]</value>
+      <webElementGuid>887c87eb-9f8a-4e5c-be68-f2569fd7f896</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rightPanel']/p</value>
+      <webElementGuid>bfec3fd8-6990-44ab-89ff-9b1612e07dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>2811070b-2ff2-45d2-8c0c-e85002b51ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The customer information provided could not be found.' or . = 'The customer information provided could not be found.')]</value>
+      <webElementGuid>b2066a32-69af-414d-96fa-be5e4bc78aa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Calculate</name>
+   <tag></tag>
+   <elementGuidId>094e89f3-f7b9-4e4a-850c-e43b5a179ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.qodef-btn-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0edb187e-b928-471d-80f4-3009012b4067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-btn-text</value>
+      <webElementGuid>1c975d5b-999b-4e28-96fa-2cec462e8df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculate</value>
+      <webElementGuid>dc501c93-a692-4203-b4e0-3d34c110d0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform&quot;]/body[@class=&quot;home page-template page-template-full-width page-template-full-width-php page page-id-424 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-content-is-behind-header qodef-dark-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade qodef-sticky-header-appear&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-full-width&quot;]/div[@class=&quot;qodef-full-width-inner&quot;]/div[@class=&quot;qodef-grid-row&quot;]/div[@class=&quot;qodef-page-content-holder qodef-grid-col-12&quot;]/div[@class=&quot;qodef-row-grid-section-wrapper&quot;]/div[@class=&quot;qodef-row-grid-section&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1520437889325&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;qodef-bmi-calculator-holder qodef-grid-row qodef-grid-large-gutter qodef-bmi-calculator-without-border&quot;]/div[@class=&quot;qodef-bmic-form-holder qodef-grid-col-6&quot;]/form[@class=&quot;qodef-bmic-form&quot;]/div[@class=&quot;qodef-grid-row qodef-grid-small-gutter&quot;]/div[@class=&quot;qodef-grid-col-12&quot;]/button[@class=&quot;qodef-btn qodef-btn-small qodef-btn-solid qodef-btn-icon&quot;]/span[@class=&quot;qodef-btn-text&quot;]</value>
+      <webElementGuid>7e920baa-3055-43ae-a3ac-950ad5dc8ba8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>57aaceeb-b613-4c33-93e6-130acf0aef38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Calculate' or . = 'Calculate')]</value>
+      <webElementGuid>b3c148e4-8a0b-4991-ae21-de484d778f8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

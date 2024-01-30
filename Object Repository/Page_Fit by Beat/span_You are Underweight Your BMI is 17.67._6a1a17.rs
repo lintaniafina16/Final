@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_You are Underweight Your BMI is 17.67._6a1a17</name>
+   <tag></tag>
+   <elementGuidId>2f58b840-0635-4f4d-9aff-90ca2a38643a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.qodef-bmic-notification-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2832142-5995-47fe-98e2-398858606ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-bmic-notification-text</value>
+      <webElementGuid>4c5fd7b7-5539-4d8c-88af-932e1a805215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You are Underweight! Your BMI is 17.67. BMR 1114 kcal/day</value>
+      <webElementGuid>bd42cd4b-19a6-41d9-8e7c-a9282fd3a6d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform&quot;]/body[@class=&quot;home page-template page-template-full-width page-template-full-width-php page page-id-424 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-content-is-behind-header qodef-dark-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-full-width&quot;]/div[@class=&quot;qodef-full-width-inner&quot;]/div[@class=&quot;qodef-grid-row&quot;]/div[@class=&quot;qodef-page-content-holder qodef-grid-col-12&quot;]/div[@class=&quot;qodef-row-grid-section-wrapper&quot;]/div[@class=&quot;qodef-row-grid-section&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1520437889325&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;qodef-bmi-calculator-holder qodef-grid-row qodef-grid-large-gutter qodef-bmi-calculator-without-border&quot;]/div[@class=&quot;qodef-grid-col-12&quot;]/div[@class=&quot;qodef-bmic-notifications&quot;]/span[@class=&quot;qodef-bmic-notification-text&quot;]</value>
+      <webElementGuid>06a37df1-df18-4feb-8652-eb598ae4def6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span[2]</value>
+      <webElementGuid>79186124-398a-4fcb-b9c7-88f800509292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'You are Underweight! Your BMI is 17.67. BMR 1114 kcal/day' or . = 'You are Underweight! Your BMI is 17.67. BMR 1114 kcal/day')]</value>
+      <webElementGuid>c3d1a593-717b-4731-82ea-133102486476</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

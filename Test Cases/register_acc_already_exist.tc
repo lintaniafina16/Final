@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>register_acc_already_exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2cc0f0e4-bbe8-4767-93fa-bf7887bf29fb</testCaseGuid>
+</TestCaseEntity>

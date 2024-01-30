@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>regisiter_forgot_login_info_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ced067ef-5d46-4971-8e9c-051f73f8fa85</testCaseGuid>
+</TestCaseEntity>
