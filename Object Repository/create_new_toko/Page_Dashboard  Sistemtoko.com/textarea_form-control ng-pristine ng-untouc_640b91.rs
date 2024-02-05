@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_form-control ng-pristine ng-untouc_640b91</name>
+   <tag></tag>
+   <elementGuidId>eb00c979-6121-42cf-857d-832aa65cd0bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.form-control.ng-pristine.ng-untouched.ng-valid.ng-dirty-add.ng-valid-parse-add.ng-animate.ng-pristine-remove</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[4]/div/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>5f699b2c-e27e-4504-8394-5ac2bcd6c0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-valid ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove</value>
+      <webElementGuid>8e48aff7-0861-4688-9aa6-40c8f171fc85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Deskripsi toko</value>
+      <webElementGuid>fff9df9a-e61b-45f3-8732-194d982393fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>brandCreate.description</value>
+      <webElementGuid>2e261fdc-51ff-48a5-88ca-d55c415140e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-animate</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>562c07b1-af06-42eb-9d2f-b932bd99fddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular_content&quot;)/ui-view[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-heading&quot;]/form[@class=&quot;form-horizontal ng-invalid ng-invalid-required ng-dirty ng-valid-parse ng-valid-minlength ng-valid-permalink-error&quot;]/div[@class=&quot;form-group form-material&quot;]/div[@class=&quot;col-sm-9&quot;]/textarea[@class=&quot;form-control ng-pristine ng-untouched ng-valid ng-dirty-add ng-valid-parse-add ng-animate ng-pristine-remove&quot;]</value>
+      <webElementGuid>3b7dbf34-b44f-4d92-95e1-222da57f2ce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[4]/div/textarea</value>
+      <webElementGuid>60dbb413-cb90-42be-9a36-3129545e4d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>df897ca9-e8dd-4701-96c1-64771a051ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Deskripsi toko']</value>
+      <webElementGuid>7f6aba1c-81e4-49dd-92ed-f858d97e8787</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

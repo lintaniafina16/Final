@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih provinsiBaliBangka BelitungBan_8ed3ec</name>
+   <tag></tag>
+   <elementGuidId>1078eee6-b6e1-471c-b9f1-556af12a004b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#province</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='province']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ec0f6faa-46ca-4beb-81af-0f699ee4e2fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-required</name>
+      <type>Main</type>
+      <value>brandCreate.shipping_actived</value>
+      <webElementGuid>fafe97ea-d5af-46de-8328-34b05144a235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>province</value>
+      <webElementGuid>8a50dd21-0883-4479-9e1e-ee148389eebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-untouched ng-invalid ng-invalid-required</value>
+      <webElementGuid>4f20ceb0-812e-4015-b9ac-cbba7f540b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-change</name>
+      <type>Main</type>
+      <value>getCities()</value>
+      <webElementGuid>59da1079-9b5b-4ca4-9cb6-4cf0a809220d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>brandCreate.province</value>
+      <webElementGuid>00345b54-4570-4490-944a-51099346265d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>required</name>
+      <type>Main</type>
+      <value>required</value>
+      <webElementGuid>fa625a51-debf-4977-9fad-26e77ff43d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							** Pilih provinsi
+							BaliBangka BelitungBantenBengkuluDI YogyakartaDKI JakartaGorontaloJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKalimantan UtaraKepulauan RiauLampungMalukuMaluku UtaraNanggroe Aceh Darussalam (NAD)Nusa Tenggara Barat (NTB)Nusa Tenggara Timur (NTT)PapuaPapua BaratRiauSulawesi BaratSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera Utara
+						</value>
+      <webElementGuid>4d032b9a-74b9-4786-9462-e94f8bf92a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;province&quot;)</value>
+      <webElementGuid>ec3f0ae6-793a-447e-b484-2c88c2cf6fcd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='province']</value>
+      <webElementGuid>4d8299d2-13b3-4237-8523-94ec74226a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[9]/div/select</value>
+      <webElementGuid>0dbb9bb3-6792-4e7b-8422-4efebc62f316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/select</value>
+      <webElementGuid>cbb27a1b-91a2-49fb-855b-0d25d0583a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'province' and (text() = '
+							** Pilih provinsi
+							BaliBangka BelitungBantenBengkuluDI YogyakartaDKI JakartaGorontaloJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKalimantan UtaraKepulauan RiauLampungMalukuMaluku UtaraNanggroe Aceh Darussalam (NAD)Nusa Tenggara Barat (NTB)Nusa Tenggara Timur (NTT)PapuaPapua BaratRiauSulawesi BaratSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera Utara
+						' or . = '
+							** Pilih provinsi
+							BaliBangka BelitungBantenBengkuluDI YogyakartaDKI JakartaGorontaloJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKalimantan UtaraKepulauan RiauLampungMalukuMaluku UtaraNanggroe Aceh Darussalam (NAD)Nusa Tenggara Barat (NTB)Nusa Tenggara Timur (NTT)PapuaPapua BaratRiauSulawesi BaratSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera Utara
+						')]</value>
+      <webElementGuid>9b118220-df13-4ada-9851-0c327a670b2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

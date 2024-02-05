@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_link-style</name>
+   <tag></tag>
+   <elementGuidId>192aaa6a-d62e-4c69-9432-14f6d12cb634</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[2]/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0faf7549-37fb-49dc-b3a1-83bc5b41278f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link-style</value>
+      <webElementGuid>ab860cc5-7485-4626-82b5-dd9c26dd23de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{ 'selected' : brandCreate.color == data.id }</value>
+      <webElementGuid>12564f61-fbe9-4f51-bbf5-ad36accea6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>brandCreate.color = data.id</value>
+      <webElementGuid>4cbe56b4-2691-401e-a4c7-bde100166194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular_content&quot;)/ui-view[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-heading&quot;]/form[@class=&quot;form-horizontal ng-invalid ng-invalid-required ng-dirty ng-valid-parse ng-valid-minlength ng-valid-permalink-error&quot;]/div[@class=&quot;form-group form-material&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-2&quot;]/div[@class=&quot;link-style&quot;]</value>
+      <webElementGuid>eae87c9a-995f-4e35-991d-cc8528903267</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c85bd93d-110b-4314-b2e3-972b15041967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>c1aaaa12-6341-4a2d-a2b1-964817bb4607</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

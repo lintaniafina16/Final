@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update_1</name>
+   <tag></tag>
+   <elementGuidId>8b5a77c4-cbbe-45d7-a79f-9f974027d9fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-sm.waves-effect.waves-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3008f42-0a83-41c2-bec5-bbca4898af3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>6b59c6ae-bb85-42a6-83aa-9255f9be3f5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm waves-effect waves-light</value>
+      <webElementGuid>240b6c96-0a36-4bc9-aa34-96b4f8fe8faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>proUpdate.$invalid || formOpt.submit</value>
+      <webElementGuid>8fcaefc3-c8b5-4c78-8b3a-2d7b3777d88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update </value>
+      <webElementGuid>a4567bf8-3401-4fe5-9cd9-bc3066bdaf2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache no-svg no-inlinesvg no-smil no-svgclippaths js-menubar&quot;]/body[@class=&quot;dashboard site-menubar-fold site-menubar-hide modal-open&quot;]/div[@class=&quot;modal fade modalTopMargin in&quot;]/div[@class=&quot;modal-dialog modal-lg&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-content&quot;]/form[@class=&quot;form-horizontal ng-valid-max-tags ng-valid-min-tags ng-valid-leftover-text ng-dirty ng-valid-parse ng-valid ng-valid-required&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-primary btn-sm waves-effect waves-light&quot;]</value>
+      <webElementGuid>faa0c6c0-4ec5-4ba8-9884-614e04020eaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>b27c31ce-0560-4d8c-b41d-8588e9ce1715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>ae6fc63f-96b3-4469-9265-3dee24f3218d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Update ' or . = 'Update ')]</value>
+      <webElementGuid>4affe547-c4bd-448c-ac47-2c186c28dacd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

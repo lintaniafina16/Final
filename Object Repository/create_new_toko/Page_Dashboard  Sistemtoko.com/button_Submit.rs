@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit</name>
+   <tag></tag>
+   <elementGuidId>788524f2-7e82-44ac-b194-431e96f9bfd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.waves-effect.waves-light.pull-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2dc210e-d41a-4aa7-93e9-8fe0e8c1733e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>248167dc-b7c6-4438-856d-b7f130821eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success waves-effect waves-light pull-right</value>
+      <webElementGuid>8a67bfa2-2b2e-4729-86d2-fad17a30e259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-disabled</name>
+      <type>Main</type>
+      <value>brandCreate.$invalid || formOpt.submit || loading</value>
+      <webElementGuid>67f5ef15-659c-48b3-a8b1-d37bbd213986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							
+							Submit
+						</value>
+      <webElementGuid>0d70aa11-442e-41e6-8ae6-e9ea89ab0def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular_content&quot;)/ui-view[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-heading&quot;]/form[@class=&quot;form-horizontal ng-dirty ng-valid-parse ng-valid-minlength ng-valid-permalink-error ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group form-material&quot;]/div[@class=&quot;col-sm-9&quot;]/button[@class=&quot;btn btn-success waves-effect waves-light pull-right&quot;]</value>
+      <webElementGuid>8c232129-052d-4d82-a2fd-734da6c1eda8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>0cae7244-fda2-4831-b81f-81ab9fbaafd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[13]/div[2]/button</value>
+      <webElementGuid>f3711e25-e223-41b2-8bf8-865462f64427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div[2]/button</value>
+      <webElementGuid>2b515f36-27c1-4f2b-8284-556a5fe2d854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+							
+							Submit
+						' or . = '
+							
+							Submit
+						')]</value>
+      <webElementGuid>2bdf98fb-85f5-4cf2-8819-455882a092af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

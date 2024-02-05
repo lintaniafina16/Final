@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_icon fa-bars</name>
+   <tag></tag>
+   <elementGuidId>ddc11154-7acd-4cb4-ac12-7c8612267ef0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.action_brand > div.btn-group > button.btn.btn-xs.btn-info.dropdown-toggle > i.icon.fa-bars</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list_product']/div/div/table/tbody/tr[2]/td[11]/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9cf65ebc-5215-4635-8d1e-0fc4a18e040c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa-bars</value>
+      <webElementGuid>e4b7f5d6-0b99-4510-9513-5481fc09818c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list_product&quot;)/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-body&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[2]/td[@class=&quot;action_brand&quot;]/div[@class=&quot;btn-group&quot;]/button[@class=&quot;btn btn-xs btn-info dropdown-toggle&quot;]/i[@class=&quot;icon fa-bars&quot;]</value>
+      <webElementGuid>1d9e8e9b-28f6-43b4-97fd-ce21f1e17f2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list_product']/div/div/table/tbody/tr[2]/td[11]/div/button/i</value>
+      <webElementGuid>5a30d218-5f72-49ba-9306-3addcc0c6616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[11]/div/button/i</value>
+      <webElementGuid>eb90e23d-8768-4cd4-ae55-9979e670b163</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

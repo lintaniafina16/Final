@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ng-pristine ng-untouched ng-valid</name>
+   <tag></tag>
+   <elementGuidId>6753f7c7-8dd6-433d-8cb3-0be9066181d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label > input.ng-pristine.ng-untouched.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fc9c8fc9-14a0-4c07-9ae4-5bb551e012fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>6e5b7267-80cc-4a0c-8c6d-7695c2067383</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>brandCreate.expedition_manual</value>
+      <webElementGuid>c3625e97-182c-49cf-a09c-9885eb50638a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid</value>
+      <webElementGuid>233bae5e-8553-443d-a273-2841663fd1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;angular_content&quot;)/ui-view[1]/div[@class=&quot;page-content&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel-heading&quot;]/form[@class=&quot;form-horizontal ng-dirty ng-valid-parse ng-valid-minlength ng-valid-permalink-error ng-valid ng-valid-required&quot;]/div[@class=&quot;form-group form-material&quot;]/div[@class=&quot;col-sm-9&quot;]/div[@class=&quot;checkbox&quot;]/label[1]/input[@class=&quot;ng-pristine ng-untouched ng-valid&quot;]</value>
+      <webElementGuid>01f81f18-8b9e-4dfe-80e0-e21b201791d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='checkbox']</value>
+      <webElementGuid>25654a97-8224-4c19-9c3a-7d80fdd2dd45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='angular_content']/ui-view/div/div/div/form/div[6]/div/div/label/input</value>
+      <webElementGuid>d8671156-0047-4fab-aae2-92179e80939f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/input</value>
+      <webElementGuid>77fa8c31-b334-471d-ad87-4a0d1191cf10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>33af9804-e010-4445-b4fe-cb37afd4e37c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
